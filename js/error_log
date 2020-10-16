@@ -1,0 +1,5 @@
+[06-Feb-2020 12:10:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/casperkkmcollege/domains/kkmcollege.in/public_html/sampurna/js/mail.php on line 37
+[06-Feb-2020 12:12:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$secretKey' (T_VARIABLE) in /home/casperkkmcollege/domains/kkmcollege.in/public_html/sampurna/js/mail.php on line 6
+[06-Feb-2020 12:39:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$secretKey' (T_VARIABLE) in /home/casperkkmcollege/domains/kkmcollege.in/public_html/sampurna/js/mail.php on line 6
+[06-Feb-2020 12:41:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$secretKey' (T_VARIABLE) in /home/casperkkmcollege/domains/kkmcollege.in/public_html/sampurna/js/mail.php on line 6
+[06-Feb-2020 12:52:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$secretKey' (T_VARIABLE) in /home/casperkkmcollege/domains/kkmcollege.in/public_html/sampurna/js/mail.php on line 6
